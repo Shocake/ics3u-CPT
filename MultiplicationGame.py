@@ -26,3 +26,4 @@ def game():
             chikndinr = False
             break
     return chikndinr
+game()
